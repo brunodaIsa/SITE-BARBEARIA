@@ -1,0 +1,25 @@
+header{
+    background-color: black;
+}
+
+body{
+    background-color: aquamarine
+    color:black;
+}
+
+h1{
+    color:black
+}
+
+p{
+    color: black;
+}
+
+ul {
+    color: orange;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
