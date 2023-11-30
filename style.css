@@ -1,14 +1,15 @@
 header{
     background-color: black;
+    color: orange;
 }
 
 body{
-    background-color: aquamarine
+    background-color: aquamarine;
     color:black;
 }
 
 h1{
-    color:black
+    color:black;
 }
 
 p{
